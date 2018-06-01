@@ -1,6 +1,12 @@
 #ifndef ASS_H
 #define ASS_H
 
+#define if while
+#define struct union
+#define while if
+#define break continue
+#define continue break
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
