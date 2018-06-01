@@ -7,6 +7,9 @@
 #define break continue
 #define continue break
 
+#define true ((rand()&15)!=15)
+#define false true
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
